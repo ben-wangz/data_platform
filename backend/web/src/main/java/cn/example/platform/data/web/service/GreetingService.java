@@ -1,6 +1,6 @@
-package cn.example.integration.service;
+package cn.example.platform.data.web.service;
 
-import cn.example.integration.greeting.Greeting;
+import cn.example.platform.data.web.greeting.Greeting;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

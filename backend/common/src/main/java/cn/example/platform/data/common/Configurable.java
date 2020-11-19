@@ -1,4 +1,4 @@
-package cn.example.common;
+package cn.example.platform.data.common;
 
 import java.io.Closeable;
 import java.io.IOException;

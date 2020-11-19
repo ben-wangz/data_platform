@@ -1,6 +1,6 @@
-package cn.example.integration.greeting;
+package cn.example.platform.data.web.greeting;
 
-import cn.example.common.Configurable;
+import cn.example.platform.data.common.Configurable;
 
 import javax.annotation.PostConstruct;
 import java.io.IOException;
